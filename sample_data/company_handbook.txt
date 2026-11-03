@@ -1,0 +1,19 @@
+SAMPLE COMPANY HANDBOOK
+
+Annual Leave
+Full-time employees receive 20 days of paid annual leave per calendar year. Leave requests should be submitted to the employee's manager at least five working days in advance. Approval depends on team coverage and business needs. Unused annual leave may be carried forward up to a maximum of five days, subject to manager approval.
+
+Sick Leave
+Employees receive 8 days of paid sick leave per calendar year. If an employee is absent for more than two consecutive working days, they should provide a medical certificate to Human Resources.
+
+Remote Work
+Employees may work remotely up to two days per week with manager approval. Employees must remain reachable during their team's agreed core hours, from 10:00 AM to 4:00 PM local time.
+
+Security
+Employees must use multi-factor authentication for company accounts. Passwords must not be shared. Suspected security incidents must be reported to the IT team immediately.
+
+Learning Budget
+Employees may request reimbursement of up to INR 15,000 per year for approved job-related courses, books, or certifications. Requests require manager approval before purchase.
+
+Parental Leave
+Eligible employees may request parental leave through Human Resources. The specific duration and eligibility requirements are determined by applicable local law and the company's current HR policy. This sample handbook does not specify a duration.
